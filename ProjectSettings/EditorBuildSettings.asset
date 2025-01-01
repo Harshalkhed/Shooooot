@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Shooooot/Scenes/0_title_scene.unity
     guid: 7766f1f33ce7b4611a94d073f40db4f7
   - enabled: 1
+    path: Assets/Shooooot/Scenes/Main Menu.unity
+    guid: bb14085177181d044a15bcfeb0c9379d
+  - enabled: 1
+    path: Assets/Shooooot/Scenes/Tutorial.unity
+    guid: 4e1506d6d33ae004093724c0a06b8a85
+  - enabled: 1
     path: Assets/Shooooot/Scenes/1_main_scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
