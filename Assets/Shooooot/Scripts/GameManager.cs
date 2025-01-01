@@ -174,4 +174,8 @@ public class GameManager : MonoBehaviour {
             Debug.Log(PlayerPrefs.GetString("AudioSetting", "-"));
         }
     }
+
+    public void GOHome() {
+        SceneManager.LoadSceneAsync(1);
+    }
 }
